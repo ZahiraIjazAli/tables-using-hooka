@@ -1,0 +1,10 @@
+.container{
+  background-image: url('./assets/bg.jpg');
+  justify-content: center;
+  padding-left: 10%;
+  width: 90%;
+  height: max-content;
+}
+.head{
+  color: black;
+}
